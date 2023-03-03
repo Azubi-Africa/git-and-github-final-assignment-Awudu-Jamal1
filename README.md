@@ -21,8 +21,8 @@ The below table must contain the details of the repositories you will create, fi
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
 | 1 |  Snake--Game            |  Snake game written in JavaScript| https://github.com/Awudu-Jamal1/Snake--Game|
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 2 | Rock-paper-scissors       | Rock Paper and Scissors build with javascript|https://github.com/Awudu-Jamal1/Rock-paper-scissors|
+| 3 |  Weather-App| Weather app with AccuWeather APIs |https://github.com/Awudu-Jamal1/Weather-App|
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
