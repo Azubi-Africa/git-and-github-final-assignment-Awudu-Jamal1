@@ -20,8 +20,7 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  Snake--Game            |  Snake game written in JavaScript
-             | https://github.com/Awudu-Jamal1/Snake--Game      |
+| 1 |  Snake--Game            |  Snake game written in JavaScript| https://github.com/Awudu-Jamal1/Snake--Game|
 | 2 |  -             |  -             | https://       |
 | 3 |  -             |  -             | https://       |
 
